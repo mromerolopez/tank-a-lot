@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 3be6acd8d4d2e48f49bdd8428ad934ea
+timeCreated: 1455380860
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imageedit_1_9780837520_0
+    21300002: imageedit_1_9780837520_1
+    21300004: imageedit_1_9780837520_2
+    21300006: imageedit_1_9780837520_3
+    21300008: imageedit_1_9780837520_4
+    21300010: imageedit_1_9780837520_5
+    21300012: imageedit_1_9780837520_6
+    21300014: imageedit_1_9780837520_7
+    21300016: imageedit_1_9780837520_8
+    21300018: imageedit_1_9780837520_9
+    21300020: imageedit_1_9780837520_10
+    21300022: imageedit_1_9780837520_11
+    21300024: imageedit_1_9780837520_12
+    21300026: imageedit_1_9780837520_13
+    21300028: imageedit_1_9780837520_14
+    21300030: imageedit_1_9780837520_15
+    21300032: imageedit_1_9780837520_16
+    21300034: imageedit_1_9780837520_17
+    21300036: imageedit_1_9780837520_18
+    21300038: imageedit_1_9780837520_19
+    21300040: imageedit_1_9780837520_20
+    21300042: imageedit_1_9780837520_21
+    21300044: imageedit_1_9780837520_22
+    21300046: imageedit_1_9780837520_23
+    21300048: imageedit_1_9780837520_24
+    21300050: imageedit_1_9780837520_25
+    21300052: imageedit_1_9780837520_26
+    21300054: imageedit_1_9780837520_27
+    21300056: imageedit_1_9780837520_28
+    21300058: imageedit_1_9780837520_29
+    21300060: imageedit_1_9780837520_30
+    21300062: imageedit_1_9780837520_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: imageedit_1_9780837520_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 42}
+        - {x: -34, y: -39}
+        - {x: -26, y: -40}
+        - {x: 34, y: -40}
+        - {x: 34, y: 41}
+        - {x: 33, y: 42}
+    - name: imageedit_1_9780837520_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 42}
+        - {x: -33, y: 42}
+        - {x: -34, y: 35}
+        - {x: -34, y: -39}
+        - {x: 31, y: -39}
+        - {x: 34, y: -35}
+        - {x: 34, y: 32}
+        - {x: 30, y: 37}
+    - name: imageedit_1_9780837520_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 42}
+        - {x: -10, y: 42}
+        - {x: -34, y: 37}
+        - {x: -34, y: -39}
+        - {x: 32, y: -39}
+        - {x: 37, y: -35}
+        - {x: 37, y: 41}
+    - name: imageedit_1_9780837520_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 42}
+        - {x: -13, y: 42}
+        - {x: -34, y: 38}
+        - {x: -34, y: -39}
+        - {x: 32, y: -39}
+        - {x: 37, y: -35}
+        - {x: 37, y: 41}
+    - name: imageedit_1_9780837520_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 42}
+        - {x: -13, y: 42}
+        - {x: -34, y: 38}
+        - {x: -34, y: -39}
+        - {x: 32, y: -39}
+        - {x: 37, y: -35}
+        - {x: 37, y: 41}
+    - name: imageedit_1_9780837520_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -34, y: 36}
+        - {x: -34, y: -34}
+        - {x: -31, y: -39}
+        - {x: 35, y: -39}
+        - {x: 36, y: -36}
+        - {x: 36, y: 41}
+        - {x: 33, y: 42}
+    - name: imageedit_1_9780837520_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 42}
+        - {x: -34, y: 36}
+        - {x: -34, y: -36}
+        - {x: -32, y: -40}
+        - {x: 36, y: -40}
+        - {x: 36, y: 42}
+    - name: imageedit_1_9780837520_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 42}
+        - {x: -34, y: 36}
+        - {x: -34, y: -34}
+        - {x: -31, y: -39}
+        - {x: 35, y: -39}
+        - {x: 36, y: -36}
+        - {x: 36, y: 41}
+        - {x: 33, y: 42}
+    - name: imageedit_1_9780837520_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 42}
+        - {x: -19, y: 42}
+        - {x: -34, y: 36}
+        - {x: -34, y: -34}
+        - {x: -31, y: -39}
+        - {x: 36, y: -39}
+        - {x: 36, y: 40}
+      - - {x: 39, y: -34}
+        - {x: 41, y: -36}
+        - {x: 42, y: -36}
+        - {x: 42, y: -31}
+        - {x: 40, y: -31}
+    - name: imageedit_1_9780837520_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 42}
+        - {x: -34, y: -40}
+        - {x: 30, y: -40}
+        - {x: 37, y: -38}
+        - {x: 37, y: 42}
+    - name: imageedit_1_9780837520_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22}
+        - {x: -23, y: -23}
+        - {x: 20, y: -23}
+        - {x: 26, y: -14}
+        - {x: 26, y: 12}
+        - {x: 24, y: 22}
+    - name: imageedit_1_9780837520_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 29}
+        - {x: -29, y: 21}
+        - {x: -29, y: -23}
+        - {x: -9, y: -31}
+        - {x: 16, y: -31}
+        - {x: 31, y: -15}
+        - {x: 31, y: 20}
+        - {x: 9, y: 29}
+    - name: imageedit_1_9780837520_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 34}
+        - {x: -39, y: 12}
+        - {x: -39, y: -24}
+        - {x: -19, y: -36}
+        - {x: 23, y: -36}
+        - {x: 38, y: -29}
+        - {x: 38, y: 28}
+        - {x: 29, y: 34}
+    - name: imageedit_1_9780837520_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 31}
+        - {x: -13, y: 31}
+        - {x: -13, y: -36}
+        - {x: 15, y: -36}
+        - {x: 15, y: 25}
+    - name: imageedit_1_9780837520_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -10, y: 6}
+        - {x: -10, y: -9}
+        - {x: -6, y: -10}
+        - {x: 9, y: -10}
+        - {x: 11, y: -2}
+        - {x: 10, y: 6}
+    - name: imageedit_1_9780837520_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -14, y: 26}
+        - {x: -23, y: 22}
+        - {x: -23, y: -26}
+        - {x: 19, y: -26}
+        - {x: 21, y: -24}
+        - {x: 21, y: 19}
+        - {x: 20, y: 22}
+    - name: imageedit_1_9780837520_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 84
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: -13}
+        - {x: 42, y: 34}
+        - {x: -42, y: 34}
+        - {x: -42, y: -12}
+        - {x: -31, y: -36}
+        - {x: 14, y: -36}
+        - {x: 17, y: -25}
+        - {x: 13, y: -21}
+        - {x: 12, y: -19}
+    - name: imageedit_1_9780837520_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    - name: imageedit_1_9780837520_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 42}
+        - {x: -42, y: -42}
+        - {x: 42, y: -42}
+        - {x: 42, y: 42}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
