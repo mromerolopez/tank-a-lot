@@ -5,6 +5,8 @@ public class Enemy : MonoBehaviour
 {
     public float speed = 3;
     public float rotspeed = 50;
+    [SerializeField]
+    GameObject explosion;
 
 
     void Update()
@@ -17,6 +19,15 @@ public class Enemy : MonoBehaviour
             transform.Rotate(new Vector3(0, 0, rotspeed * Time.deltaTime));
         if (Input.GetKey(KeyCode.RightArrow))
             transform.Rotate(new Vector3(0, 0, -rotspeed * Time.deltaTime));
+    }
 
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("PlayerBullet"))
+        {
+            gameObject.SetActive(false);
+            Destroy(collision.gameObject);
+            Instantiate(explosion, transform.position, Quaternion.identity);
+        }
     }
 }
