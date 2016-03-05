@@ -10,6 +10,9 @@ public class Player : MonoBehaviour
 
     [SerializeField]
     private GameObject bullet;
+    [SerializeField]
+    GameObject explosion;
+    private readonly Vector3 StartPosition = new Vector3(0f, -3f, 0f);
 
     void Update()
     {
@@ -30,5 +33,23 @@ public class Player : MonoBehaviour
             time = 0;
         }
 
+    }
+
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("EnemyBullet"))
+        {
+            Destroy(collision.gameObject);
+            gameObject.SetActive(false);
+            Instantiate(explosion, transform.position, Quaternion.identity);
+            Invoke("respawn", 3);
+        }
+        
+    }
+
+    private void respawn()
+    {
+        transform.position = StartPosition;
+        gameObject.SetActive(true);
     }
 }
