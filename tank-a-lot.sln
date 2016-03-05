@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{3D4CC19A-1924-E40D-D139-871C746A43D1}") = "tank-a-lot", "Assembly-CSharp.csproj", "{FBD4A6F6-8FBB-36B8-1E0C-CA5CC5795433}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank-a-lot.CSharp", "tank-a-lot.CSharp.csproj", "{D62797F5-555A-177F-EFBA-B1465A4BD46E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank-a-lot.CSharp.Editor", "tank-a-lot.CSharp.Editor.csproj", "{DFD86680-3E26-37F3-98A1-BBCFC84EB8EF}"
 EndProject
@@ -11,7 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
 		{D62797F5-555A-177F-EFBA-B1465A4BD46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D62797F5-555A-177F-EFBA-B1465A4BD46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D62797F5-555A-177F-EFBA-B1465A4BD46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -20,17 +19,8 @@ Global
 		{DFD86680-3E26-37F3-98A1-BBCFC84EB8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD86680-3E26-37F3-98A1-BBCFC84EB8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD86680-3E26-37F3-98A1-BBCFC84EB8EF}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-		{FBD4A6F6-8FBB-36B8-1E0C-CA5CC5795433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBD4A6F6-8FBB-36B8-1E0C-CA5CC5795433}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FBD4A6F6-8FBB-36B8-1E0C-CA5CC5795433}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FBD4A6F6-8FBB-36B8-1E0C-CA5CC5795433}.Release|Any CPU.Build.0 = Release|Any CPU
->>>>>>> 6d73c1e0242fdc535d42494a51fdd5ada30da761
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
