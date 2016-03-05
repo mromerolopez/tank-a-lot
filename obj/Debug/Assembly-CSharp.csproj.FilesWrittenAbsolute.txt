@@ -1,0 +1,17 @@
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Elibo/Desktop/tank-a-lot/obj/Debug/Assembly-CSharp.dll
+/Users/Elibo/Desktop/tank-a-lot/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/UnityEngine.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/UnityEditor.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Elibo/Desktop/tank-a-lot/Temp/bin/Debug/Mono.Cecil.Mdb.dll
