@@ -7,18 +7,31 @@ public class Enemy : MonoBehaviour
     //public float rotspeed = 50;
     [SerializeField]
     GameObject explosion;
+    [SerializeField]
+    private GameObject bullet;
+    [SerializeField]
+    private int freq = 4;
 
     Vector2 movUp = new Vector2(0, speed);
     Vector2 movRight = new Vector2(speed, 0);
     Vector2 movDown = new Vector2(0, -speed);
     Vector2 movLeft = new Vector2(-speed, 0);
 
+
+
     int move = 0;
 
     void Update()
     {
-      
-            transform.Translate(movUp * Time.deltaTime);
+
+        transform.Translate(movUp * Time.deltaTime);
+
+        if (Random.Range(0, 1000)<=freq)
+        {
+            Instantiate(bullet, transform.position, transform.rotation);
+
+        }
+
 
         //}
         //else if (move == 1)
@@ -52,9 +65,9 @@ public class Enemy : MonoBehaviour
     public void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log(collision);
-        transform.Rotate(new Vector3(0,0,-90));
+        transform.Rotate(new Vector3(0, 0, -90));
         move++;
-        if (move>=4)
+        if (move >= 4)
         {
             move = 0;
         }
