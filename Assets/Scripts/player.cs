@@ -12,7 +12,20 @@ public class Player : MonoBehaviour
     private GameObject bullet;
     [SerializeField]
     GameObject explosion;
-    private readonly Vector3 StartPosition = new Vector3(11f, -9f, 0f);
+    [SerializeField]
+    private float StartX = -11f;
+    [SerializeField]
+    private float StartY = 9f;
+
+    private Vector3 StartPosition;
+
+    private GameManager gm;
+
+    void Start()
+    {
+        gm = FindObjectOfType<GameManager>();
+        StartPosition = new Vector3(StartX, StartY, 0f);
+    }
 
     void Update()
     {
@@ -46,6 +59,9 @@ public class Player : MonoBehaviour
         {
             Destroy(collision.gameObject);
             gameObject.SetActive(false);
+
+            gm.PlayerDestroyed();
+
             Instantiate(explosion, transform.position, Quaternion.identity);
             Invoke("respawn", 3);
         }
