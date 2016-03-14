@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{DFD86680-3E26-37F3-98A1-BBCFC84EB8EF}</ProjectGuid>
+    <ProjectGuid>{7F094A2F-CD4E-B9F7-EBA8-13E891C484D3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -82,6 +82,9 @@
     <Reference Include="UnityEditor.Graphs">
       <HintPath>Library\UnityAssemblies\UnityEditor.Graphs.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>Library\UnityAssemblies\UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WebGL.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.WebGL.Extensions.dll</HintPath>
     </Reference>
@@ -93,9 +96,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="tank-a-lot.CSharp.csproj">
-      <Project>{D62797F5-555A-177F-EFBA-B1465A4BD46E}</Project>
-      <Name>tank-a-lot.CSharp</Name>
+    <ProjectReference Include="Tank-a-lot.CSharp.csproj">
+      <Project>{CC6A9D80-1FEF-306D-4B7D-F5231C73CCFE}</Project>
+      <Name>Tank-a-lot.CSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
