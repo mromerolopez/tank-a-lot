@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
     private Text ScoreText;
 
     [SerializeField]
-    private int PointsToWin = 2000;
+    private int PointsToWin = 700;
 
     private int score = 0;
     private int lifes = 3;
@@ -89,7 +89,7 @@ public class GameManager : MonoBehaviour
     {
         this.score += score;
         ScoreText.text = "Score: " + this.score.ToString();
-        if (score >= PointsToWin)
+        if (this.score >= PointsToWin)
         {
             Win();
         }
